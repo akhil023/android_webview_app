@@ -1,5 +1,6 @@
 # android_webview_app
-Android Studio Project
+An Android Studio Project.
+
 App which loads a website in a webview in an android app. 
 * On pressing device back button, it works like browser back button .
 * Provide website to be loaded in the line 
